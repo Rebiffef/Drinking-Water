@@ -4,5 +4,5 @@ StabPol<-StabPol[,!(colnames(StabPol) %in% c("Element.Code","Element","Note","Fl
 
 StabPol<-StabPol %>% pivot_wider(names_from = "Item",values_from="Value")
 
-write.csv(EauPotable,"StabilitePolitique.csv")
+write.csv(StabPol,"StabilitePolitique.csv")
 
