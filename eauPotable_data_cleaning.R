@@ -42,3 +42,5 @@ EauPotable$country<-as.factor(EauPotable$country)
 EauPotable$type<-as.factor(EauPotable$type)
 
 EauPotable$'drinking-water services'<-as.factor(EauPotable$'drinking-water services')
+
+write.csv(EauPotable,"eauPotable.csv")
