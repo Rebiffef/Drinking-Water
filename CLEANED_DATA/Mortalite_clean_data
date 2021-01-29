@@ -1,550 +1,550 @@
-"Country","Gender","Mortality rate attributed to exposure to unsafe WASH services+Value (First)","SDG 3.9.2 WASH deaths +Value (First)"
-"Afghanistan","Both of sexe","13.9","4824"
-"Afghanistan","Female","15.3",
-"Afghanistan","Male","12.6",
-"Albania","Both of sexe","0.2","5"
-"Albania","Female","0.1",
-"Albania","Male","0.2",
-"Algeria","Both of sexe","1.9","758"
-"Algeria","Female","2.0",
-"Algeria","Male","1.7",
-"Angola","Both of sexe","48.8","14 065"
-"Angola","Female","45.2",
-"Angola","Male","52.6",
-"Antigua and Barbuda","Both of sexe","0.1","0"
-"Antigua and Barbuda","Female","0.1",
-"Antigua and Barbuda","Male","0.1",
-"Argentina","Both of sexe","0.4","159"
-"Argentina","Female","0.4",
-"Argentina","Male","0.3",
-"Armenia","Both of sexe","0.2","5"
-"Armenia","Female","0.2",
-"Armenia","Male","0.2",
-"Australia","Both of sexe","0.1","23"
-"Australia","Female","0.1",
-"Australia","Male","0.1",
-"Austria","Both of sexe","0.1","11"
-"Austria","Female","0.2",
-"Austria","Male","0.1",
-"Azerbaijan","Both of sexe","1.1","109"
-"Azerbaijan","Female","1.0",
-"Azerbaijan","Male","1.3",
-"Bahamas","Both of sexe","0.1","0"
-"Bahamas","Female","0.1",
-"Bahamas","Male","0.1",
-"Bahrain","Both of sexe","<0.1","1"
-"Bahrain","Female","<0.1",
-"Bahrain","Male","<0.1",
-"Bangladesh","Both of sexe","11.9","19 464"
-"Bangladesh","Female","13.8",
-"Bangladesh","Male","10.1",
-"Barbados","Both of sexe","0.2","0"
-"Barbados","Female","0.2",
-"Barbados","Male","0.1",
-"Belarus","Both of sexe","0.1","5"
-"Belarus","Female","0.1",
-"Belarus","Male","0.1",
-"Belgium","Both of sexe","0.3","32"
-"Belgium","Female","0.4",
-"Belgium","Male","0.2",
-"Belize","Both of sexe","1.0","4"
-"Belize","Female","0.9",
-"Belize","Male","1.0",
-"Benin","Both of sexe","59.7","6494"
-"Benin","Female","54.4",
-"Benin","Male","65.1",
-"Bhutan","Both of sexe","3.9","32"
-"Bhutan","Female","4.6",
-"Bhutan","Male","3.4",
-"Bolivia (Plurinational State of)","Both of sexe","5.6","607"
-"Bolivia (Plurinational State of)","Female","4.9",
-"Bolivia (Plurinational State of)","Male","6.2",
-"Bosnia and Herzegovina","Both of sexe","0.1","3"
-"Bosnia and Herzegovina","Female","0.1",
-"Bosnia and Herzegovina","Male","0.1",
-"Botswana","Both of sexe","11.8","265"
-"Botswana","Female","12.3",
-"Botswana","Male","11.2",
-"Brazil","Both of sexe","1.0","2175"
-"Brazil","Female","1.1",
-"Brazil","Male","1.0",
-"Brunei Darussalam","Both of sexe","<0.1","0"
-"Brunei Darussalam","Female","<0.1",
-"Brunei Darussalam","Male","<0.1",
-"Bulgaria","Both of sexe","0.1","9"
-"Bulgaria","Female","0.1",
-"Bulgaria","Male","0.1",
-"Burkina Faso","Both of sexe","49.6","9256"
-"Burkina Faso","Female","53.7",
-"Burkina Faso","Male","45.5",
-"Burundi","Both of sexe","65.4","6883"
-"Burundi","Female","66.8",
-"Burundi","Male","64.0",
-"Cabo Verde","Both of sexe","4.1","22"
-"Cabo Verde","Female","4.0",
-"Cabo Verde","Male","4.3",
-"Cambodia","Both of sexe","6.5","1020"
-"Cambodia","Female","6.3",
-"Cambodia","Male","6.6",
-"Cameroon","Both of sexe","45.2","10 583"
-"Cameroon","Female","44.1",
-"Cameroon","Male","46.2",
-"Canada","Both of sexe","0.4","134"
-"Canada","Female","0.4",
-"Canada","Male","0.3",
-"Central African Republic","Both of sexe","82.1","3773"
-"Central African Republic","Female","74.7",
-"Central African Republic","Male","89.7",
-"Chad","Both of sexe","101.0","14 603"
-"Chad","Female","95.0",
-"Chad","Male","107.0",
-"Chile","Both of sexe","0.2","36"
-"Chile","Female","0.2",
-"Chile","Male","0.2",
-"China","Both of sexe","0.6","8134"
-"China","Female","0.7",
-"China","Male","0.5",
-"Colombia","Both of sexe","0.8","366"
-"Colombia","Female","0.8",
-"Colombia","Male","0.7",
-"Comoros","Both of sexe","50.7","404"
-"Comoros","Female","50.3",
-"Comoros","Male","51.1",
-"Congo","Both of sexe","38.7","1984"
-"Congo","Female","33.9",
-"Congo","Male","43.5",
-"Costa Rica","Both of sexe","0.9","42"
-"Costa Rica","Female","1.0",
-"Costa Rica","Male","0.7",
-"Croatia","Both of sexe","0.1","5"
-"Croatia","Female","0.1",
-"Croatia","Male","0.1",
-"Cuba","Both of sexe","1.0","118"
-"Cuba","Female","1.0",
-"Cuba","Male","1.0",
-"Cyprus","Both of sexe","0.3","3"
-"Cyprus","Female","0.3",
-"Cyprus","Male","0.3",
-"Czechia","Both of sexe","0.2","19"
-"Czechia","Female","0.2",
-"Czechia","Male","0.1",
-"Côte d'Ivoire","Both of sexe","47.2","11 174"
-"Côte d'Ivoire","Female","44.7",
-"Côte d'Ivoire","Male","49.5",
-"Democratic People's Republic of Korea","Both of sexe","1.4","344"
-"Democratic People's Republic of Korea","Female","1.1",
-"Democratic People's Republic of Korea","Male","1.6",
-"Democratic Republic of the Congo","Both of sexe","59.8","47 050"
-"Democratic Republic of the Congo","Female","49.8",
-"Democratic Republic of the Congo","Male","69.8",
-"Denmark","Both of sexe","0.3","17"
-"Denmark","Female","0.4",
-"Denmark","Male","0.2",
-"Djibouti","Both of sexe","31.3","295"
-"Djibouti","Female","33.2",
-"Djibouti","Male","29.4",
-"Dominican Republic","Both of sexe","2.2","235"
-"Dominican Republic","Female","2.2",
-"Dominican Republic","Male","2.2",
-"Ecuador","Both of sexe","0.6","105"
-"Ecuador","Female","0.7",
-"Ecuador","Male","0.6",
-"Egypt","Both of sexe","2.0","1916"
-"Egypt","Female","2.2",
-"Egypt","Male","1.8",
-"El Salvador","Both of sexe","2.0","127"
-"El Salvador","Female","1.6",
-"El Salvador","Male","2.4",
-"Equatorial Guinea","Both of sexe","22.3","272"
-"Equatorial Guinea","Female","23.9",
-"Equatorial Guinea","Male","21.0",
-"Eritrea","Both of sexe","45.6","2258"
-"Eritrea","Female","43.5",
-"Eritrea","Male","47.6",
-"Estonia","Both of sexe","<0.1","0"
-"Estonia","Female","<0.1",
-"Estonia","Male","<0.1",
-"Eswatini","Both of sexe","27.9","375"
-"Eswatini","Female","29.8",
-"Eswatini","Male","25.9",
-"Ethiopia","Both of sexe","43.7","44 713"
-"Ethiopia","Female","40.8",
-"Ethiopia","Male","46.5",
-"Fiji","Both of sexe","2.9","26"
-"Fiji","Female","2.2",
-"Fiji","Male","3.5",
-"Finland","Both of sexe","<0.1","2"
-"Finland","Female","<0.1",
-"Finland","Male","<0.1",
-"France","Both of sexe","0.3","172"
-"France","Female","0.3",
-"France","Male","0.2",
-"Gabon","Both of sexe","20.6","407"
-"Gabon","Female","18.6",
-"Gabon","Male","22.5",
-"Gambia","Both of sexe","29.7","605"
-"Gambia","Female","28.4",
-"Gambia","Male","30.9",
-"Georgia","Both of sexe","0.2","7"
-"Georgia","Female","0.2",
-"Georgia","Male","0.2",
-"Germany","Both of sexe","0.6","480"
-"Germany","Female","0.7",
-"Germany","Male","0.5",
-"Ghana","Both of sexe","18.8","5313"
-"Ghana","Female","19.4",
-"Ghana","Male","18.2",
-"Greece","Both of sexe","<0.1","4"
-"Greece","Female","0.1",
-"Greece","Male","<0.1",
-"Grenada","Both of sexe","0.3","0"
-"Grenada","Female","<0.1",
-"Grenada","Male","0.7",
-"Guatemala","Both of sexe","6.3","1044"
-"Guatemala","Female","6.0",
-"Guatemala","Male","6.6",
-"Guinea","Both of sexe","44.6","5533"
-"Guinea","Female","41.0",
-"Guinea","Male","48.3",
-"Guinea-Bissau","Both of sexe","35.3","640"
-"Guinea-Bissau","Female","33.0",
-"Guinea-Bissau","Male","37.7",
-"Guyana","Both of sexe","3.6","28"
-"Guyana","Female","3.2",
-"Guyana","Male","4.1",
-"Haiti","Both of sexe","23.8","2581"
-"Haiti","Female","20.1",
-"Haiti","Male","27.5",
-"Honduras","Both of sexe","3.6","330"
-"Honduras","Female","3.8",
-"Honduras","Male","3.4",
-"Hungary","Both of sexe","0.2","23"
-"Hungary","Female","0.3",
-"Hungary","Male","0.2",
-"Iceland","Both of sexe","0.1","0"
-"Iceland","Female","0.1",
-"Iceland","Male","0.1",
-"India","Both of sexe","18.6","246 088"
-"India","Female","21.5",
-"India","Male","15.9",
-"Indonesia","Both of sexe","7.1","18 426"
-"Indonesia","Female","7.8",
-"Indonesia","Male","6.3",
-"Iran (Islamic Republic of)","Both of sexe","1.0","790"
-"Iran (Islamic Republic of)","Female","1.0",
-"Iran (Islamic Republic of)","Male","1.0",
-"Iraq","Both of sexe","3.0","1129"
-"Iraq","Female","2.3",
-"Iraq","Male","3.8",
-"Ireland","Both of sexe","0.1","4"
-"Ireland","Female","0.1",
-"Ireland","Male","<0.1",
-"Israel","Both of sexe","0.2","20"
-"Israel","Female","0.3",
-"Israel","Male","0.2",
-"Italy","Both of sexe","0.1","82"
-"Italy","Female","0.2",
-"Italy","Male","0.1",
-"Jamaica","Both of sexe","0.6","18"
-"Jamaica","Female","0.6",
-"Jamaica","Male","0.7",
-"Japan","Both of sexe","0.2","213"
-"Japan","Female","0.2",
-"Japan","Male","0.1",
-"Jordan","Both of sexe","0.6","59"
-"Jordan","Female","0.8",
-"Jordan","Male","0.5",
-"Kazakhstan","Both of sexe","0.4","69"
-"Kazakhstan","Female","0.4",
-"Kazakhstan","Male","0.4",
-"Kenya","Both of sexe","51.2","24 790"
-"Kenya","Female","49.7",
-"Kenya","Male","52.6",
-"Kiribati","Both of sexe","16.7","19"
-"Kiribati","Female","19.7",
-"Kiribati","Male","13.5",
-"Kuwait","Both of sexe","<0.1","1"
-"Kuwait","Female","<0.1",
-"Kuwait","Male","<0.1",
-"Kyrgyzstan","Both of sexe","0.8","46"
-"Kyrgyzstan","Female","0.7",
-"Kyrgyzstan","Male","0.8",
-"Lao People's Democratic Republic","Both of sexe","11.3","765"
-"Lao People's Democratic Republic","Female","11.4",
-"Lao People's Democratic Republic","Male","11.2",
-"Latvia","Both of sexe","<0.1","0"
-"Latvia","Female","<0.1",
-"Latvia","Male","<0.1",
-"Lebanon","Both of sexe","0.8","47"
-"Lebanon","Female","0.9",
-"Lebanon","Male","0.7",
-"Lesotho","Both of sexe","44.4","978"
-"Lesotho","Female","49.8",
-"Lesotho","Male","38.6",
-"Liberia","Both of sexe","41.5","1917"
-"Liberia","Female","39.5",
-"Liberia","Male","43.5",
-"Libya","Both of sexe","0.6","37"
-"Libya","Female","0.7",
-"Libya","Male","0.5",
-"Lithuania","Both of sexe","0.1","2"
-"Lithuania","Female","0.1",
-"Lithuania","Male","0.1",
-"Luxembourg","Both of sexe","<0.1","0"
-"Luxembourg","Female","0.1",
-"Luxembourg","Male","<0.1",
-"Madagascar","Both of sexe","30.2","7526"
-"Madagascar","Female","29.7",
-"Madagascar","Male","30.8",
-"Malawi","Both of sexe","28.3","5118"
-"Malawi","Female","27.5",
-"Malawi","Male","29.1",
-"Malaysia","Both of sexe","0.4","131"
-"Malaysia","Female","0.5",
-"Malaysia","Male","0.4",
-"Maldives","Both of sexe","0.3","1"
-"Maldives","Female","0.2",
-"Maldives","Male","0.4",
-"Mali","Both of sexe","70.7","12 726"
-"Mali","Female","71.1",
-"Mali","Male","70.4",
-"Malta","Both of sexe","<0.1","0"
-"Malta","Female","0.1",
-"Malta","Male","<0.1",
-"Mauritania","Both of sexe","38.6","1659"
-"Mauritania","Female","36.5",
-"Mauritania","Male","40.7",
-"Mauritius","Both of sexe","0.6","7"
-"Mauritius","Female","0.4",
-"Mauritius","Male","0.7",
-"Mexico","Both of sexe","1.1","1346"
-"Mexico","Female","1.1",
-"Mexico","Male","1.0",
-"Micronesia (Federated States of)","Both of sexe","3.6","4"
-"Micronesia (Federated States of)","Female","3.7",
-"Micronesia (Federated States of)","Male","3.4",
-"Mongolia","Both of sexe","1.3","39"
-"Mongolia","Female","0.8",
-"Mongolia","Male","1.8",
-"Montenegro","Both of sexe","<0.1","0"
-"Montenegro","Female","<0.1",
-"Montenegro","Male","<0.1",
-"Morocco","Both of sexe","1.9","671"
-"Morocco","Female","2.0",
-"Morocco","Male","1.8",
-"Mozambique","Both of sexe","27.6","7965"
-"Mozambique","Female","27.1",
-"Mozambique","Male","28.2",
-"Myanmar","Both of sexe","12.6","6674"
-"Myanmar","Female","12.2",
-"Myanmar","Male","13.1",
-"Namibia","Both of sexe","18.3","454"
-"Namibia","Female","18.3",
-"Namibia","Male","18.4",
-"Nepal","Both of sexe","19.8","5747"
-"Nepal","Female","24.4",
-"Nepal","Male","14.9",
-"Netherlands","Both of sexe","0.2","41"
-"Netherlands","Female","0.3",
-"Netherlands","Male","0.2",
-"New Zealand","Both of sexe","0.1","7"
-"New Zealand","Female","0.2",
-"New Zealand","Male","0.1",
-"Nicaragua","Both of sexe","2.2","138"
-"Nicaragua","Female","2.0",
-"Nicaragua","Male","2.4",
-"Niger","Both of sexe","70.8","14 640"
-"Niger","Female","66.9",
-"Niger","Male","74.7",
-"Nigeria","Both of sexe","68.6","127 641"
-"Nigeria","Female","65.6",
-"Nigeria","Male","71.6",
-"North Macedonia","Both of sexe","0.1","2"
-"North Macedonia","Female","0.1",
-"North Macedonia","Male","0.1",
-"Norway","Both of sexe","0.2","11"
-"Norway","Female","0.3",
-"Norway","Male","0.2",
-"Oman","Both of sexe","<0.1","2"
-"Oman","Female","<0.1",
-"Oman","Male","<0.1",
-"Pakistan","Both of sexe","19.6","37 847"
-"Pakistan","Female","23.4",
-"Pakistan","Male","16.0",
-"Panama","Both of sexe","1.9","76"
-"Panama","Female","1.7",
-"Panama","Male","2.1",
-"Papua New Guinea","Both of sexe","16.3","1319"
-"Papua New Guinea","Female","18.1",
-"Papua New Guinea","Male","14.6",
-"Paraguay","Both of sexe","1.5","98"
-"Paraguay","Female","1.5",
-"Paraguay","Male","1.4",
-"Peru","Both of sexe","1.3","406"
-"Peru","Female","1.2",
-"Peru","Male","1.3",
-"Philippines","Both of sexe","4.2","4332"
-"Philippines","Female","3.6",
-"Philippines","Male","4.8",
-"Poland","Both of sexe","0.1","35"
-"Poland","Female","0.1",
-"Poland","Male","0.1",
-"Portugal","Both of sexe","0.2","16"
-"Portugal","Female","0.2",
-"Portugal","Male","0.1",
-"Qatar","Both of sexe","<0.1","0"
-"Qatar","Female","<0.1",
-"Qatar","Male","<0.1",
-"Republic of Korea","Both of sexe","1.8","917"
-"Republic of Korea","Female","2.2",
-"Republic of Korea","Male","1.4",
-"Republic of Moldova","Both of sexe","0.1","4"
-"Republic of Moldova","Female","0.1",
-"Republic of Moldova","Male","0.1",
-"Romania","Both of sexe","0.4","72"
-"Romania","Female","0.4",
-"Romania","Male","0.3",
-"Russian Federation","Both of sexe","0.1","151"
-"Russian Federation","Female","0.1",
-"Russian Federation","Male","0.1",
-"Rwanda","Both of sexe","19.3","2306"
-"Rwanda","Female","19.5",
-"Rwanda","Male","19.2",
-"Saint Lucia","Both of sexe","0.6","1"
-"Saint Lucia","Female","0.3",
-"Saint Lucia","Male","1.0",
-"Saint Vincent and the Grenadines","Both of sexe","1.3","1"
-"Saint Vincent and the Grenadines","Female","1.3",
-"Saint Vincent and the Grenadines","Male","1.4",
-"Samoa","Both of sexe","1.5","3"
-"Samoa","Female","1.5",
-"Samoa","Male","1.5",
-"Sao Tome and Principe","Both of sexe","11.4","23"
-"Sao Tome and Principe","Female","11.7",
-"Sao Tome and Principe","Male","11.0",
-"Saudi Arabia","Both of sexe","0.1","30"
-"Saudi Arabia","Female","0.1",
-"Saudi Arabia","Male","0.1",
-"Senegal","Both of sexe","23.9","3679"
-"Senegal","Female","21.9",
-"Senegal","Male","25.9",
-"Serbia","Both of sexe","0.7","65"
-"Serbia","Female","0.9",
-"Serbia","Male","0.6",
-"Seychelles","Both of sexe","0.2","0"
-"Seychelles","Female","0.1",
-"Seychelles","Male","0.2",
-"Sierra Leone","Both of sexe","81.3","6013"
-"Sierra Leone","Female","75.8",
-"Sierra Leone","Male","86.8",
-"Singapore","Both of sexe","0.1","4"
-"Singapore","Female","0.1",
-"Singapore","Male","<0.1",
-"Slovakia","Both of sexe","<0.1","2"
-"Slovakia","Female","0.1",
-"Slovakia","Male","<0.1",
-"Slovenia","Both of sexe","<0.1","0"
-"Slovenia","Female","<0.1",
-"Slovenia","Male","<0.1",
-"Solomon Islands","Both of sexe","6.2","37"
-"Solomon Islands","Female","5.5",
-"Solomon Islands","Male","6.8",
-"Somalia","Both of sexe","86.6","12 396"
-"Somalia","Female","89.7",
-"Somalia","Male","83.4",
-"South Africa","Both of sexe","13.7","7657"
-"South Africa","Female","13.4",
-"South Africa","Male","13.9",
-"South Sudan","Both of sexe","63.3","7740"
-"South Sudan","Female","60.7",
-"South Sudan","Male","65.9",
-"Spain","Both of sexe","0.2","70"
-"Spain","Female","0.2",
-"Spain","Male","0.1",
-"Sri Lanka","Both of sexe","1.2","248"
-"Sri Lanka","Female","1.2",
-"Sri Lanka","Male","1.2",
-"Sudan","Both of sexe","17.3","6856"
-"Sudan","Female","18.3",
-"Sudan","Male","16.3",
-"Suriname","Both of sexe","2.0","11"
-"Suriname","Female","2.0",
-"Suriname","Male","2.1",
-"Sweden","Both of sexe","0.2","21"
-"Sweden","Female","0.3",
-"Sweden","Male","0.2",
-"Switzerland","Both of sexe","0.1","12"
-"Switzerland","Female","0.2",
-"Switzerland","Male","0.1",
-"Syrian Arab Republic","Both of sexe","3.7","676"
-"Syrian Arab Republic","Female","4.1",
-"Syrian Arab Republic","Male","3.2",
-"Tajikistan","Both of sexe","2.7","236"
-"Tajikistan","Female","2.4",
-"Tajikistan","Male","3.0",
-"Thailand","Both of sexe","3.5","2415"
-"Thailand","Female","3.4",
-"Thailand","Male","3.7",
-"Timor-Leste","Both of sexe","9.9","126"
-"Timor-Leste","Female","9.8",
-"Timor-Leste","Male","10.0",
-"Togo","Both of sexe","41.6","3167"
-"Togo","Female","41.1",
-"Togo","Male","42.1",
-"Tonga","Both of sexe","1.4","2"
-"Tonga","Female","2.0",
-"Tonga","Male","0.8",
-"Trinidad and Tobago","Both of sexe","0.1","2"
-"Trinidad and Tobago","Female","0.1",
-"Trinidad and Tobago","Male","0.2",
-"Tunisia","Both of sexe","1.0","116"
-"Tunisia","Female","1.2",
-"Tunisia","Male","0.8",
-"Turkey","Both of sexe","0.3","235"
-"Turkey","Female","0.3",
-"Turkey","Male","0.3",
-"Turkmenistan","Both of sexe","4.0","225"
-"Turkmenistan","Female","3.5",
-"Turkmenistan","Male","4.5",
-"Uganda","Both of sexe","31.6","13 093"
-"Uganda","Female","30.4",
-"Uganda","Male","32.7",
-"Ukraine","Both of sexe","0.3","119"
-"Ukraine","Female","0.2",
-"Ukraine","Male","0.3",
-"United Arab Emirates","Both of sexe","<0.1","3"
-"United Arab Emirates","Female","<0.1",
-"United Arab Emirates","Male","<0.1",
-"United Kingdom of Great Britain and Northern Ireland","Both of sexe","0.2","130"
-"United Kingdom of Great Britain and Northern Ireland","Female","0.2",
-"United Kingdom of Great Britain and Northern Ireland","Male","0.1",
-"United Republic of Tanzania","Both of sexe","38.4","21 342"
-"United Republic of Tanzania","Female","40.6",
-"United Republic of Tanzania","Male","36.2",
-"United States of America","Both of sexe","0.2","746"
-"United States of America","Female","0.3",
-"United States of America","Male","0.2",
-"Uruguay","Both of sexe","0.4","12"
-"Uruguay","Female","0.4",
-"Uruguay","Male","0.3",
-"Uzbekistan","Both of sexe","0.4","139"
-"Uzbekistan","Female","0.4",
-"Uzbekistan","Male","0.5",
-"Vanuatu","Both of sexe","10.4","28"
-"Vanuatu","Female","8.6",
-"Vanuatu","Male","12.2",
-"Venezuela (Bolivarian Republic of)","Both of sexe","1.4","439"
-"Venezuela (Bolivarian Republic of)","Female","1.4",
-"Venezuela (Bolivarian Republic of)","Male","1.4",
-"Viet Nam","Both of sexe","1.6","1533"
-"Viet Nam","Female","1.1",
-"Viet Nam","Male","2.1",
-"Yemen","Both of sexe","10.2","2814"
-"Yemen","Female","11.8",
-"Yemen","Male","8.7",
-"Zambia","Both of sexe","34.9","5793"
-"Zambia","Female","33.2",
-"Zambia","Male","36.6",
-"Zimbabwe","Both of sexe","24.6","3965"
-"Zimbabwe","Female","22.2",
-"Zimbabwe","Male","27.1",
+"Country","Year","Gender","Mortality rate attributed to exposure to unsafe WASH services+First(Value)","SDG 3.9.2 WASH deaths +First(Value)"
+"Afghanistan","2016","Both of sexe","13.9","4824"
+"Afghanistan","2016","Female","15.3",
+"Afghanistan","2016","Male","12.6",
+"Albania","2016","Both of sexe","0.2","5"
+"Albania","2016","Female","0.1",
+"Albania","2016","Male","0.2",
+"Algeria","2016","Both of sexe","1.9","758"
+"Algeria","2016","Female","2.0",
+"Algeria","2016","Male","1.7",
+"Angola","2016","Both of sexe","48.8","14 065"
+"Angola","2016","Female","45.2",
+"Angola","2016","Male","52.6",
+"Antigua and Barbuda","2016","Both of sexe","0.1","0"
+"Antigua and Barbuda","2016","Female","0.1",
+"Antigua and Barbuda","2016","Male","0.1",
+"Argentina","2016","Both of sexe","0.4","159"
+"Argentina","2016","Female","0.4",
+"Argentina","2016","Male","0.3",
+"Armenia","2016","Both of sexe","0.2","5"
+"Armenia","2016","Female","0.2",
+"Armenia","2016","Male","0.2",
+"Australia","2016","Both of sexe","0.1","23"
+"Australia","2016","Female","0.1",
+"Australia","2016","Male","0.1",
+"Austria","2016","Both of sexe","0.1","11"
+"Austria","2016","Female","0.2",
+"Austria","2016","Male","0.1",
+"Azerbaijan","2016","Both of sexe","1.1","109"
+"Azerbaijan","2016","Female","1.0",
+"Azerbaijan","2016","Male","1.3",
+"Bahamas","2016","Both of sexe","0.1","0"
+"Bahamas","2016","Female","0.1",
+"Bahamas","2016","Male","0.1",
+"Bahrain","2016","Both of sexe","<0.1","1"
+"Bahrain","2016","Female","<0.1",
+"Bahrain","2016","Male","<0.1",
+"Bangladesh","2016","Both of sexe","11.9","19 464"
+"Bangladesh","2016","Female","13.8",
+"Bangladesh","2016","Male","10.1",
+"Barbados","2016","Both of sexe","0.2","0"
+"Barbados","2016","Female","0.2",
+"Barbados","2016","Male","0.1",
+"Belarus","2016","Both of sexe","0.1","5"
+"Belarus","2016","Female","0.1",
+"Belarus","2016","Male","0.1",
+"Belgium","2016","Both of sexe","0.3","32"
+"Belgium","2016","Female","0.4",
+"Belgium","2016","Male","0.2",
+"Belize","2016","Both of sexe","1.0","4"
+"Belize","2016","Female","0.9",
+"Belize","2016","Male","1.0",
+"Benin","2016","Both of sexe","59.7","6494"
+"Benin","2016","Female","54.4",
+"Benin","2016","Male","65.1",
+"Bhutan","2016","Both of sexe","3.9","32"
+"Bhutan","2016","Female","4.6",
+"Bhutan","2016","Male","3.4",
+"Bolivia (Plurinational State of)","2016","Both of sexe","5.6","607"
+"Bolivia (Plurinational State of)","2016","Female","4.9",
+"Bolivia (Plurinational State of)","2016","Male","6.2",
+"Bosnia and Herzegovina","2016","Both of sexe","0.1","3"
+"Bosnia and Herzegovina","2016","Female","0.1",
+"Bosnia and Herzegovina","2016","Male","0.1",
+"Botswana","2016","Both of sexe","11.8","265"
+"Botswana","2016","Female","12.3",
+"Botswana","2016","Male","11.2",
+"Brazil","2016","Both of sexe","1.0","2175"
+"Brazil","2016","Female","1.1",
+"Brazil","2016","Male","1.0",
+"Brunei Darussalam","2016","Both of sexe","<0.1","0"
+"Brunei Darussalam","2016","Female","<0.1",
+"Brunei Darussalam","2016","Male","<0.1",
+"Bulgaria","2016","Both of sexe","0.1","9"
+"Bulgaria","2016","Female","0.1",
+"Bulgaria","2016","Male","0.1",
+"Burkina Faso","2016","Both of sexe","49.6","9256"
+"Burkina Faso","2016","Female","53.7",
+"Burkina Faso","2016","Male","45.5",
+"Burundi","2016","Both of sexe","65.4","6883"
+"Burundi","2016","Female","66.8",
+"Burundi","2016","Male","64.0",
+"Cabo Verde","2016","Both of sexe","4.1","22"
+"Cabo Verde","2016","Female","4.0",
+"Cabo Verde","2016","Male","4.3",
+"Cambodia","2016","Both of sexe","6.5","1020"
+"Cambodia","2016","Female","6.3",
+"Cambodia","2016","Male","6.6",
+"Cameroon","2016","Both of sexe","45.2","10 583"
+"Cameroon","2016","Female","44.1",
+"Cameroon","2016","Male","46.2",
+"Canada","2016","Both of sexe","0.4","134"
+"Canada","2016","Female","0.4",
+"Canada","2016","Male","0.3",
+"Central African Republic","2016","Both of sexe","82.1","3773"
+"Central African Republic","2016","Female","74.7",
+"Central African Republic","2016","Male","89.7",
+"Chad","2016","Both of sexe","101.0","14 603"
+"Chad","2016","Female","95.0",
+"Chad","2016","Male","107.0",
+"Chile","2016","Both of sexe","0.2","36"
+"Chile","2016","Female","0.2",
+"Chile","2016","Male","0.2",
+"China","2016","Both of sexe","0.6","8134"
+"China","2016","Female","0.7",
+"China","2016","Male","0.5",
+"Colombia","2016","Both of sexe","0.8","366"
+"Colombia","2016","Female","0.8",
+"Colombia","2016","Male","0.7",
+"Comoros","2016","Both of sexe","50.7","404"
+"Comoros","2016","Female","50.3",
+"Comoros","2016","Male","51.1",
+"Congo","2016","Both of sexe","38.7","1984"
+"Congo","2016","Female","33.9",
+"Congo","2016","Male","43.5",
+"Costa Rica","2016","Both of sexe","0.9","42"
+"Costa Rica","2016","Female","1.0",
+"Costa Rica","2016","Male","0.7",
+"Croatia","2016","Both of sexe","0.1","5"
+"Croatia","2016","Female","0.1",
+"Croatia","2016","Male","0.1",
+"Cuba","2016","Both of sexe","1.0","118"
+"Cuba","2016","Female","1.0",
+"Cuba","2016","Male","1.0",
+"Cyprus","2016","Both of sexe","0.3","3"
+"Cyprus","2016","Female","0.3",
+"Cyprus","2016","Male","0.3",
+"Czechia","2016","Both of sexe","0.2","19"
+"Czechia","2016","Female","0.2",
+"Czechia","2016","Male","0.1",
+"CÃ´te d'Ivoire","2016","Both of sexe","47.2","11 174"
+"CÃ´te d'Ivoire","2016","Female","44.7",
+"CÃ´te d'Ivoire","2016","Male","49.5",
+"Democratic People's Republic of Korea","2016","Both of sexe","1.4","344"
+"Democratic People's Republic of Korea","2016","Female","1.1",
+"Democratic People's Republic of Korea","2016","Male","1.6",
+"Democratic Republic of the Congo","2016","Both of sexe","59.8","47 050"
+"Democratic Republic of the Congo","2016","Female","49.8",
+"Democratic Republic of the Congo","2016","Male","69.8",
+"Denmark","2016","Both of sexe","0.3","17"
+"Denmark","2016","Female","0.4",
+"Denmark","2016","Male","0.2",
+"Djibouti","2016","Both of sexe","31.3","295"
+"Djibouti","2016","Female","33.2",
+"Djibouti","2016","Male","29.4",
+"Dominican Republic","2016","Both of sexe","2.2","235"
+"Dominican Republic","2016","Female","2.2",
+"Dominican Republic","2016","Male","2.2",
+"Ecuador","2016","Both of sexe","0.6","105"
+"Ecuador","2016","Female","0.7",
+"Ecuador","2016","Male","0.6",
+"Egypt","2016","Both of sexe","2.0","1916"
+"Egypt","2016","Female","2.2",
+"Egypt","2016","Male","1.8",
+"El Salvador","2016","Both of sexe","2.0","127"
+"El Salvador","2016","Female","1.6",
+"El Salvador","2016","Male","2.4",
+"Equatorial Guinea","2016","Both of sexe","22.3","272"
+"Equatorial Guinea","2016","Female","23.9",
+"Equatorial Guinea","2016","Male","21.0",
+"Eritrea","2016","Both of sexe","45.6","2258"
+"Eritrea","2016","Female","43.5",
+"Eritrea","2016","Male","47.6",
+"Estonia","2016","Both of sexe","<0.1","0"
+"Estonia","2016","Female","<0.1",
+"Estonia","2016","Male","<0.1",
+"Eswatini","2016","Both of sexe","27.9","375"
+"Eswatini","2016","Female","29.8",
+"Eswatini","2016","Male","25.9",
+"Ethiopia","2016","Both of sexe","43.7","44 713"
+"Ethiopia","2016","Female","40.8",
+"Ethiopia","2016","Male","46.5",
+"Fiji","2016","Both of sexe","2.9","26"
+"Fiji","2016","Female","2.2",
+"Fiji","2016","Male","3.5",
+"Finland","2016","Both of sexe","<0.1","2"
+"Finland","2016","Female","<0.1",
+"Finland","2016","Male","<0.1",
+"France","2016","Both of sexe","0.3","172"
+"France","2016","Female","0.3",
+"France","2016","Male","0.2",
+"Gabon","2016","Both of sexe","20.6","407"
+"Gabon","2016","Female","18.6",
+"Gabon","2016","Male","22.5",
+"Gambia","2016","Both of sexe","29.7","605"
+"Gambia","2016","Female","28.4",
+"Gambia","2016","Male","30.9",
+"Georgia","2016","Both of sexe","0.2","7"
+"Georgia","2016","Female","0.2",
+"Georgia","2016","Male","0.2",
+"Germany","2016","Both of sexe","0.6","480"
+"Germany","2016","Female","0.7",
+"Germany","2016","Male","0.5",
+"Ghana","2016","Both of sexe","18.8","5313"
+"Ghana","2016","Female","19.4",
+"Ghana","2016","Male","18.2",
+"Greece","2016","Both of sexe","<0.1","4"
+"Greece","2016","Female","0.1",
+"Greece","2016","Male","<0.1",
+"Grenada","2016","Both of sexe","0.3","0"
+"Grenada","2016","Female","<0.1",
+"Grenada","2016","Male","0.7",
+"Guatemala","2016","Both of sexe","6.3","1044"
+"Guatemala","2016","Female","6.0",
+"Guatemala","2016","Male","6.6",
+"Guinea","2016","Both of sexe","44.6","5533"
+"Guinea","2016","Female","41.0",
+"Guinea","2016","Male","48.3",
+"Guinea-Bissau","2016","Both of sexe","35.3","640"
+"Guinea-Bissau","2016","Female","33.0",
+"Guinea-Bissau","2016","Male","37.7",
+"Guyana","2016","Both of sexe","3.6","28"
+"Guyana","2016","Female","3.2",
+"Guyana","2016","Male","4.1",
+"Haiti","2016","Both of sexe","23.8","2581"
+"Haiti","2016","Female","20.1",
+"Haiti","2016","Male","27.5",
+"Honduras","2016","Both of sexe","3.6","330"
+"Honduras","2016","Female","3.8",
+"Honduras","2016","Male","3.4",
+"Hungary","2016","Both of sexe","0.2","23"
+"Hungary","2016","Female","0.3",
+"Hungary","2016","Male","0.2",
+"Iceland","2016","Both of sexe","0.1","0"
+"Iceland","2016","Female","0.1",
+"Iceland","2016","Male","0.1",
+"India","2016","Both of sexe","18.6","246 088"
+"India","2016","Female","21.5",
+"India","2016","Male","15.9",
+"Indonesia","2016","Both of sexe","7.1","18 426"
+"Indonesia","2016","Female","7.8",
+"Indonesia","2016","Male","6.3",
+"Iran (Islamic Republic of)","2016","Both of sexe","1.0","790"
+"Iran (Islamic Republic of)","2016","Female","1.0",
+"Iran (Islamic Republic of)","2016","Male","1.0",
+"Iraq","2016","Both of sexe","3.0","1129"
+"Iraq","2016","Female","2.3",
+"Iraq","2016","Male","3.8",
+"Ireland","2016","Both of sexe","0.1","4"
+"Ireland","2016","Female","0.1",
+"Ireland","2016","Male","<0.1",
+"Israel","2016","Both of sexe","0.2","20"
+"Israel","2016","Female","0.3",
+"Israel","2016","Male","0.2",
+"Italy","2016","Both of sexe","0.1","82"
+"Italy","2016","Female","0.2",
+"Italy","2016","Male","0.1",
+"Jamaica","2016","Both of sexe","0.6","18"
+"Jamaica","2016","Female","0.6",
+"Jamaica","2016","Male","0.7",
+"Japan","2016","Both of sexe","0.2","213"
+"Japan","2016","Female","0.2",
+"Japan","2016","Male","0.1",
+"Jordan","2016","Both of sexe","0.6","59"
+"Jordan","2016","Female","0.8",
+"Jordan","2016","Male","0.5",
+"Kazakhstan","2016","Both of sexe","0.4","69"
+"Kazakhstan","2016","Female","0.4",
+"Kazakhstan","2016","Male","0.4",
+"Kenya","2016","Both of sexe","51.2","24 790"
+"Kenya","2016","Female","49.7",
+"Kenya","2016","Male","52.6",
+"Kiribati","2016","Both of sexe","16.7","19"
+"Kiribati","2016","Female","19.7",
+"Kiribati","2016","Male","13.5",
+"Kuwait","2016","Both of sexe","<0.1","1"
+"Kuwait","2016","Female","<0.1",
+"Kuwait","2016","Male","<0.1",
+"Kyrgyzstan","2016","Both of sexe","0.8","46"
+"Kyrgyzstan","2016","Female","0.7",
+"Kyrgyzstan","2016","Male","0.8",
+"Lao People's Democratic Republic","2016","Both of sexe","11.3","765"
+"Lao People's Democratic Republic","2016","Female","11.4",
+"Lao People's Democratic Republic","2016","Male","11.2",
+"Latvia","2016","Both of sexe","<0.1","0"
+"Latvia","2016","Female","<0.1",
+"Latvia","2016","Male","<0.1",
+"Lebanon","2016","Both of sexe","0.8","47"
+"Lebanon","2016","Female","0.9",
+"Lebanon","2016","Male","0.7",
+"Lesotho","2016","Both of sexe","44.4","978"
+"Lesotho","2016","Female","49.8",
+"Lesotho","2016","Male","38.6",
+"Liberia","2016","Both of sexe","41.5","1917"
+"Liberia","2016","Female","39.5",
+"Liberia","2016","Male","43.5",
+"Libya","2016","Both of sexe","0.6","37"
+"Libya","2016","Female","0.7",
+"Libya","2016","Male","0.5",
+"Lithuania","2016","Both of sexe","0.1","2"
+"Lithuania","2016","Female","0.1",
+"Lithuania","2016","Male","0.1",
+"Luxembourg","2016","Both of sexe","<0.1","0"
+"Luxembourg","2016","Female","0.1",
+"Luxembourg","2016","Male","<0.1",
+"Madagascar","2016","Both of sexe","30.2","7526"
+"Madagascar","2016","Female","29.7",
+"Madagascar","2016","Male","30.8",
+"Malawi","2016","Both of sexe","28.3","5118"
+"Malawi","2016","Female","27.5",
+"Malawi","2016","Male","29.1",
+"Malaysia","2016","Both of sexe","0.4","131"
+"Malaysia","2016","Female","0.5",
+"Malaysia","2016","Male","0.4",
+"Maldives","2016","Both of sexe","0.3","1"
+"Maldives","2016","Female","0.2",
+"Maldives","2016","Male","0.4",
+"Mali","2016","Both of sexe","70.7","12 726"
+"Mali","2016","Female","71.1",
+"Mali","2016","Male","70.4",
+"Malta","2016","Both of sexe","<0.1","0"
+"Malta","2016","Female","0.1",
+"Malta","2016","Male","<0.1",
+"Mauritania","2016","Both of sexe","38.6","1659"
+"Mauritania","2016","Female","36.5",
+"Mauritania","2016","Male","40.7",
+"Mauritius","2016","Both of sexe","0.6","7"
+"Mauritius","2016","Female","0.4",
+"Mauritius","2016","Male","0.7",
+"Mexico","2016","Both of sexe","1.1","1346"
+"Mexico","2016","Female","1.1",
+"Mexico","2016","Male","1.0",
+"Micronesia (Federated States of)","2016","Both of sexe","3.6","4"
+"Micronesia (Federated States of)","2016","Female","3.7",
+"Micronesia (Federated States of)","2016","Male","3.4",
+"Mongolia","2016","Both of sexe","1.3","39"
+"Mongolia","2016","Female","0.8",
+"Mongolia","2016","Male","1.8",
+"Montenegro","2016","Both of sexe","<0.1","0"
+"Montenegro","2016","Female","<0.1",
+"Montenegro","2016","Male","<0.1",
+"Morocco","2016","Both of sexe","1.9","671"
+"Morocco","2016","Female","2.0",
+"Morocco","2016","Male","1.8",
+"Mozambique","2016","Both of sexe","27.6","7965"
+"Mozambique","2016","Female","27.1",
+"Mozambique","2016","Male","28.2",
+"Myanmar","2016","Both of sexe","12.6","6674"
+"Myanmar","2016","Female","12.2",
+"Myanmar","2016","Male","13.1",
+"Namibia","2016","Both of sexe","18.3","454"
+"Namibia","2016","Female","18.3",
+"Namibia","2016","Male","18.4",
+"Nepal","2016","Both of sexe","19.8","5747"
+"Nepal","2016","Female","24.4",
+"Nepal","2016","Male","14.9",
+"Netherlands","2016","Both of sexe","0.2","41"
+"Netherlands","2016","Female","0.3",
+"Netherlands","2016","Male","0.2",
+"New Zealand","2016","Both of sexe","0.1","7"
+"New Zealand","2016","Female","0.2",
+"New Zealand","2016","Male","0.1",
+"Nicaragua","2016","Both of sexe","2.2","138"
+"Nicaragua","2016","Female","2.0",
+"Nicaragua","2016","Male","2.4",
+"Niger","2016","Both of sexe","70.8","14 640"
+"Niger","2016","Female","66.9",
+"Niger","2016","Male","74.7",
+"Nigeria","2016","Both of sexe","68.6","127 641"
+"Nigeria","2016","Female","65.6",
+"Nigeria","2016","Male","71.6",
+"North Macedonia","2016","Both of sexe","0.1","2"
+"North Macedonia","2016","Female","0.1",
+"North Macedonia","2016","Male","0.1",
+"Norway","2016","Both of sexe","0.2","11"
+"Norway","2016","Female","0.3",
+"Norway","2016","Male","0.2",
+"Oman","2016","Both of sexe","<0.1","2"
+"Oman","2016","Female","<0.1",
+"Oman","2016","Male","<0.1",
+"Pakistan","2016","Both of sexe","19.6","37 847"
+"Pakistan","2016","Female","23.4",
+"Pakistan","2016","Male","16.0",
+"Panama","2016","Both of sexe","1.9","76"
+"Panama","2016","Female","1.7",
+"Panama","2016","Male","2.1",
+"Papua New Guinea","2016","Both of sexe","16.3","1319"
+"Papua New Guinea","2016","Female","18.1",
+"Papua New Guinea","2016","Male","14.6",
+"Paraguay","2016","Both of sexe","1.5","98"
+"Paraguay","2016","Female","1.5",
+"Paraguay","2016","Male","1.4",
+"Peru","2016","Both of sexe","1.3","406"
+"Peru","2016","Female","1.2",
+"Peru","2016","Male","1.3",
+"Philippines","2016","Both of sexe","4.2","4332"
+"Philippines","2016","Female","3.6",
+"Philippines","2016","Male","4.8",
+"Poland","2016","Both of sexe","0.1","35"
+"Poland","2016","Female","0.1",
+"Poland","2016","Male","0.1",
+"Portugal","2016","Both of sexe","0.2","16"
+"Portugal","2016","Female","0.2",
+"Portugal","2016","Male","0.1",
+"Qatar","2016","Both of sexe","<0.1","0"
+"Qatar","2016","Female","<0.1",
+"Qatar","2016","Male","<0.1",
+"Republic of Korea","2016","Both of sexe","1.8","917"
+"Republic of Korea","2016","Female","2.2",
+"Republic of Korea","2016","Male","1.4",
+"Republic of Moldova","2016","Both of sexe","0.1","4"
+"Republic of Moldova","2016","Female","0.1",
+"Republic of Moldova","2016","Male","0.1",
+"Romania","2016","Both of sexe","0.4","72"
+"Romania","2016","Female","0.4",
+"Romania","2016","Male","0.3",
+"Russian Federation","2016","Both of sexe","0.1","151"
+"Russian Federation","2016","Female","0.1",
+"Russian Federation","2016","Male","0.1",
+"Rwanda","2016","Both of sexe","19.3","2306"
+"Rwanda","2016","Female","19.5",
+"Rwanda","2016","Male","19.2",
+"Saint Lucia","2016","Both of sexe","0.6","1"
+"Saint Lucia","2016","Female","0.3",
+"Saint Lucia","2016","Male","1.0",
+"Saint Vincent and the Grenadines","2016","Both of sexe","1.3","1"
+"Saint Vincent and the Grenadines","2016","Female","1.3",
+"Saint Vincent and the Grenadines","2016","Male","1.4",
+"Samoa","2016","Both of sexe","1.5","3"
+"Samoa","2016","Female","1.5",
+"Samoa","2016","Male","1.5",
+"Sao Tome and Principe","2016","Both of sexe","11.4","23"
+"Sao Tome and Principe","2016","Female","11.7",
+"Sao Tome and Principe","2016","Male","11.0",
+"Saudi Arabia","2016","Both of sexe","0.1","30"
+"Saudi Arabia","2016","Female","0.1",
+"Saudi Arabia","2016","Male","0.1",
+"Senegal","2016","Both of sexe","23.9","3679"
+"Senegal","2016","Female","21.9",
+"Senegal","2016","Male","25.9",
+"Serbia","2016","Both of sexe","0.7","65"
+"Serbia","2016","Female","0.9",
+"Serbia","2016","Male","0.6",
+"Seychelles","2016","Both of sexe","0.2","0"
+"Seychelles","2016","Female","0.1",
+"Seychelles","2016","Male","0.2",
+"Sierra Leone","2016","Both of sexe","81.3","6013"
+"Sierra Leone","2016","Female","75.8",
+"Sierra Leone","2016","Male","86.8",
+"Singapore","2016","Both of sexe","0.1","4"
+"Singapore","2016","Female","0.1",
+"Singapore","2016","Male","<0.1",
+"Slovakia","2016","Both of sexe","<0.1","2"
+"Slovakia","2016","Female","0.1",
+"Slovakia","2016","Male","<0.1",
+"Slovenia","2016","Both of sexe","<0.1","0"
+"Slovenia","2016","Female","<0.1",
+"Slovenia","2016","Male","<0.1",
+"Solomon Islands","2016","Both of sexe","6.2","37"
+"Solomon Islands","2016","Female","5.5",
+"Solomon Islands","2016","Male","6.8",
+"Somalia","2016","Both of sexe","86.6","12 396"
+"Somalia","2016","Female","89.7",
+"Somalia","2016","Male","83.4",
+"South Africa","2016","Both of sexe","13.7","7657"
+"South Africa","2016","Female","13.4",
+"South Africa","2016","Male","13.9",
+"South Sudan","2016","Both of sexe","63.3","7740"
+"South Sudan","2016","Female","60.7",
+"South Sudan","2016","Male","65.9",
+"Spain","2016","Both of sexe","0.2","70"
+"Spain","2016","Female","0.2",
+"Spain","2016","Male","0.1",
+"Sri Lanka","2016","Both of sexe","1.2","248"
+"Sri Lanka","2016","Female","1.2",
+"Sri Lanka","2016","Male","1.2",
+"Sudan","2016","Both of sexe","17.3","6856"
+"Sudan","2016","Female","18.3",
+"Sudan","2016","Male","16.3",
+"Suriname","2016","Both of sexe","2.0","11"
+"Suriname","2016","Female","2.0",
+"Suriname","2016","Male","2.1",
+"Sweden","2016","Both of sexe","0.2","21"
+"Sweden","2016","Female","0.3",
+"Sweden","2016","Male","0.2",
+"Switzerland","2016","Both of sexe","0.1","12"
+"Switzerland","2016","Female","0.2",
+"Switzerland","2016","Male","0.1",
+"Syrian Arab Republic","2016","Both of sexe","3.7","676"
+"Syrian Arab Republic","2016","Female","4.1",
+"Syrian Arab Republic","2016","Male","3.2",
+"Tajikistan","2016","Both of sexe","2.7","236"
+"Tajikistan","2016","Female","2.4",
+"Tajikistan","2016","Male","3.0",
+"Thailand","2016","Both of sexe","3.5","2415"
+"Thailand","2016","Female","3.4",
+"Thailand","2016","Male","3.7",
+"Timor-Leste","2016","Both of sexe","9.9","126"
+"Timor-Leste","2016","Female","9.8",
+"Timor-Leste","2016","Male","10.0",
+"Togo","2016","Both of sexe","41.6","3167"
+"Togo","2016","Female","41.1",
+"Togo","2016","Male","42.1",
+"Tonga","2016","Both of sexe","1.4","2"
+"Tonga","2016","Female","2.0",
+"Tonga","2016","Male","0.8",
+"Trinidad and Tobago","2016","Both of sexe","0.1","2"
+"Trinidad and Tobago","2016","Female","0.1",
+"Trinidad and Tobago","2016","Male","0.2",
+"Tunisia","2016","Both of sexe","1.0","116"
+"Tunisia","2016","Female","1.2",
+"Tunisia","2016","Male","0.8",
+"Turkey","2016","Both of sexe","0.3","235"
+"Turkey","2016","Female","0.3",
+"Turkey","2016","Male","0.3",
+"Turkmenistan","2016","Both of sexe","4.0","225"
+"Turkmenistan","2016","Female","3.5",
+"Turkmenistan","2016","Male","4.5",
+"Uganda","2016","Both of sexe","31.6","13 093"
+"Uganda","2016","Female","30.4",
+"Uganda","2016","Male","32.7",
+"Ukraine","2016","Both of sexe","0.3","119"
+"Ukraine","2016","Female","0.2",
+"Ukraine","2016","Male","0.3",
+"United Arab Emirates","2016","Both of sexe","<0.1","3"
+"United Arab Emirates","2016","Female","<0.1",
+"United Arab Emirates","2016","Male","<0.1",
+"United Kingdom of Great Britain and Northern Ireland","2016","Both of sexe","0.2","130"
+"United Kingdom of Great Britain and Northern Ireland","2016","Female","0.2",
+"United Kingdom of Great Britain and Northern Ireland","2016","Male","0.1",
+"United Republic of Tanzania","2016","Both of sexe","38.4","21 342"
+"United Republic of Tanzania","2016","Female","40.6",
+"United Republic of Tanzania","2016","Male","36.2",
+"United States of America","2016","Both of sexe","0.2","746"
+"United States of America","2016","Female","0.3",
+"United States of America","2016","Male","0.2",
+"Uruguay","2016","Both of sexe","0.4","12"
+"Uruguay","2016","Female","0.4",
+"Uruguay","2016","Male","0.3",
+"Uzbekistan","2016","Both of sexe","0.4","139"
+"Uzbekistan","2016","Female","0.4",
+"Uzbekistan","2016","Male","0.5",
+"Vanuatu","2016","Both of sexe","10.4","28"
+"Vanuatu","2016","Female","8.6",
+"Vanuatu","2016","Male","12.2",
+"Venezuela (Bolivarian Republic of)","2016","Both of sexe","1.4","439"
+"Venezuela (Bolivarian Republic of)","2016","Female","1.4",
+"Venezuela (Bolivarian Republic of)","2016","Male","1.4",
+"Viet Nam","2016","Both of sexe","1.6","1533"
+"Viet Nam","2016","Female","1.1",
+"Viet Nam","2016","Male","2.1",
+"Yemen","2016","Both of sexe","10.2","2814"
+"Yemen","2016","Female","11.8",
+"Yemen","2016","Male","8.7",
+"Zambia","2016","Both of sexe","34.9","5793"
+"Zambia","2016","Female","33.2",
+"Zambia","2016","Male","36.6",
+"Zimbabwe","2016","Both of sexe","24.6","3965"
+"Zimbabwe","2016","Female","22.2",
+"Zimbabwe","2016","Male","27.1",
